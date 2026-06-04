@@ -1,0 +1,13 @@
+# WordPress
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (ha később build tool kerül bele)
+node_modules/
+package-lock.json
